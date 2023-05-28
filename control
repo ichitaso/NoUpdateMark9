@@ -1,0 +1,12 @@
+Author: ichitaso
+Maintainer: ichitaso
+Package: com.ichitaso.noupdatemark9
+Name: NoUpdateMark (iOS9 to 16)
+Depends: mobilesubstrate
+Version: 0.1-3
+Description: No more annoying install/update Mark
+Architecture: iphoneos-arm
+Depiction: https://cydia.ichitaso.com/depiction/noupdatemark9.html
+homepage: https://ichitaso.com
+Section: Tweaks
+dev: ichitaso
